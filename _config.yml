@@ -21,7 +21,7 @@
 title: siryus site
 email: siryus@csie.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Meng Hsun Chan ,now is junior of Nation Chung Chang University ,Graduated from SanChong senior High School , and perhaps be the last enter ＣＣＵ　ＣＳＩＥ．
+  Meng Hsun Chan ,now is junior of Nation Chung Chang University ,Graduated from SanChong senior High School．
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
